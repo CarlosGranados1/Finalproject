@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=UnifrakturCook:700');
+@import url('https://fonts.googleapis.com/css?family=Ranga');
+body, html{
+  background-image: url(http://cutewallpaper.org/wp-content/uploads/2016/02/Skull-Horror-Wallpapers-HD-1366x768-8.jpg);
+color: red;
+font-family: 'Ranga';
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+a {
+ font-family: 'UnifrakturCook';
+ color: red;
+}
+
+h1 {
+  font-family: 'UnifrakturCook';
+ color: red;
+ margin-top: auto;
+ margin-left: 40px;
+ margin-right: auto;
+ margin-bottom: auto;
+}
+
+.button{
+  background-color: red;
+  color: red;
+  display: block;
+  border: 2px solid #4CAF50;
+}
+
+h2 {
+  font-family: 'UnifrakturCook';
+ color: red;
+ margin-top: auto;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: auto;
+}

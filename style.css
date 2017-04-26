@@ -1,8 +1,28 @@
 @import url('https://fonts.googleapis.com/css?family=UnifrakturCook:700');
 body {
   background-image: url("http://cdn9.staztic.com/app/a/2604/2604453/really-scary-wallpapers-2-7-s-307x512.jpg");
+color: red;
 }
 
 h1 {
   font-family: 'UnifrakturCook';
+  text-align: center;
+}
+
+a {
+  font-family: 'UnifrakturCook';
+  display: inline;
+  color: red;
+}
+
+   p {
+     font-family: UnifrakturCook;
+    color: red;
+    font-size: 25px;
+   }
+
+ul,li {
+  font-family: UnifrakturCook;
+  color: red;
+  font-size: 20px;
 }
