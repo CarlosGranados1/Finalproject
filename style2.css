@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=UnifrakturCook:700');
-@import url('https://fonts.googleapis.com/css?family=Ranga');
+@import url('https://fonts.googleapis.com/css?family=Exo');
 body, html{
   background-image: url(http://cutewallpaper.org/wp-content/uploads/2016/02/Skull-Horror-Wallpapers-HD-1366x768-8.jpg);
 color: red;
-font-family: 'Ranga';
+font-family: 'Exo';
 background-position: center;
 background-repeat: no-repeat;
 background-attachment: fixed;
@@ -12,6 +12,7 @@ background-attachment: fixed;
 a {
  font-family: 'UnifrakturCook';
  color: red;
+ display: block;
 }
 
 h1 {
@@ -23,11 +24,12 @@ h1 {
  margin-bottom: auto;
 }
 
-.button{
-  background-color: red;
+button{
+  background-color: black;
   color: red;
   display: block;
-  border: 2px solid #4CAF50;
+  border: 30px;
+  font-family: 'UnifrakturCook';
 }
 
 h2 {
@@ -37,4 +39,11 @@ h2 {
  margin-left: auto;
  margin-right: auto;
  margin-bottom: auto;
+}
+
+img {
+  margin-bottom: 20px;
+  margin-top: 20px;
+margin-left: 20px;
+  margin-right: 20px;
 }
