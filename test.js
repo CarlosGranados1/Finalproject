@@ -9,7 +9,7 @@ if (question2 == "eggs"){
 quizScore = quizScore + 1
 }
 var question3 = document.querySelector("input[name='q3']:checked").value;
-if (question3 == "killer"){
+if (question3 == "Killer"){
 quizScore = quizScore + 1
 }
 var question4 = document.querySelector("input[name='q4']:checked").value;
@@ -21,15 +21,13 @@ if (question5 == "doge"){
 quizScore = quizScore + 1
 }
 var question6 = document.querySelector("input[name='q6']:checked").value;
-if (question6 == "Scare"){
+if (question6 == "scare"){
 quizScore = quizScore + 1
 }
 var question7 = document.querySelector("input[name='q7']:checked").value;
 if (question7 == "true") {
     quizScore = quizScore + 1
   }
-quizScore = quizScore + 1
-
 var question8 = document.querySelector("input[name='q8']:checked").value;
 if (question8 == "night") {
 quizScore = quizScore + 1
@@ -39,10 +37,8 @@ if (question9 == "wolf") {
 quizScore = quizScore + 1
 }
 var question10 = document.querySelector("input[name='q10']:checked").value;
-if (question10 == "mex") {
+if (question10 == "Mexico") {
 quizScore = quizScore + 1
 }
-  alert("think that was easy?")
-  alert("YOUR SCORE IS...")
-  alert(quizScore)
+
 }
