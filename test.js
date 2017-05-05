@@ -40,5 +40,15 @@ var question10 = document.querySelector("input[name='q10']:checked").value;
 if (question10 == "Mexico") {
 quizScore = quizScore + 1
 }
-
+var question11 = document.querySelector("input[name='q11']:checked").value;
+if (question11 == "gandplenty") {
+quizScore = quizScore + 1
+}
+var question12 = document.querySelector("input[name='q12']:checked").value;
+if (question12 == "Ireland") {
+quizScore = quizScore + 1
+}
+var question13 = document.querySelector("input[name='q13']:checked").value;
+if (question13== "") {
+quizScore = quizScore + 1
 }
