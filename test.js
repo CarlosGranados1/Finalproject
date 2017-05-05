@@ -49,6 +49,10 @@ if (question12 == "Ireland") {
 quizScore = quizScore + 1
 }
 var question13 = document.querySelector("input[name='q13']:checked").value;
-if (question13== "") {
+if (question13 == "zero") {
 quizScore = quizScore + 1
+}
+var question14 = document.querySelector("input[name='q14']:checked").value;
+if(question14 == ""){
+  quizScore = quizScore + 1
 }
