@@ -53,6 +53,30 @@ if (question13 == "zero") {
 quizScore = quizScore + 1
 }
 var question14 = document.querySelector("input[name='q14']:checked").value;
-if(question14 == ""){
+if(question14 == "Ghost Rider"){
+  quizScore = quizScore + 1
+}
+var question15 = document.querySelector("input[name='q15']:checked").value;
+if(question15 == "Y"){
+  quizScore = quizScore + 1
+}
+var question16 = document.querySelector("input[name='q16']:checked").value;
+if(question16 == "jason"){
+  quizScore = quizScore + 1
+}
+var question17 = document.querySelector("input[name='q17']:checked").value;
+if(question17 == "The nightmare b4"){
+  quizScore = quizScore + 1
+}
+var question18 = document.querySelector("input[name='q18']:checked").value;
+if(question18 == "jigsaw"){
+  quizScore = quizScore + 1
+}
+var question19 = document.querySelector("input[name='q19']:checked").value;
+if(question19 == ""){
+  quizScore = quizScore + 1
+}
+var question20 = document.querySelector("input[name='q20']:checked").value;
+if(question20 == "jigsaw"){
   quizScore = quizScore + 1
 }

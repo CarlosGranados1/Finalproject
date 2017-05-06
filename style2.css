@@ -1,12 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=UnifrakturCook:700');
 @import url('https://fonts.googleapis.com/css?family=Exo');
-body, html{
-  background-image: url(http://cutewallpaper.org/wp-content/uploads/2016/02/Skull-Horror-Wallpapers-HD-1366x768-8.jpg);
-color: red;
-font-family: 'Exo';
+body{
+  background-image: url("https://wallpaperscraft.com/image/alien_teeth_horror_fear_killer_evil_92832_1920x1080.jpg");
 background-position: center;
 background-repeat: no-repeat;
 background-attachment: fixed;
+}
+
+html {
+color: red;
+font-family: 'Exo';
 }
 
 a {
