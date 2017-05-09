@@ -80,3 +80,7 @@ var question20 = document.querySelector("input[name='q20']:checked").value;
 if(question20 == "chuck"){
   quizScore = quizScore + 1
 }
+alert("Think that was easy...")
+alert("Your score is...")
+alert(quizScore)  
+}

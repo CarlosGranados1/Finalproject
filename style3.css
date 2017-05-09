@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+body{
+  background-image: url("http://www.hdwallpaper.nu/wp-content/uploads/2015/06/horro123.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+html {
+  color: red;
+  font-family: 'Permanent Marker';
+}
