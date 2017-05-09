@@ -73,10 +73,10 @@ if(question18 == "jigsaw"){
   quizScore = quizScore + 1
 }
 var question19 = document.querySelector("input[name='q19']:checked").value;
-if(question19 == ""){
+if(question19 == "Freddy"){
   quizScore = quizScore + 1
 }
 var question20 = document.querySelector("input[name='q20']:checked").value;
-if(question20 == "jigsaw"){
+if(question20 == "chuck"){
   quizScore = quizScore + 1
 }
