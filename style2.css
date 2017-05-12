@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=UnifrakturCook:700');
+@import url('https://fonts.googleapis.com/css?family=Inknut+Antiqua');
 @import url('https://fonts.googleapis.com/css?family=Exo');
 body{
   background-image: url("https://wallpaperscraft.com/image/alien_teeth_horror_fear_killer_evil_92832_1920x1080.jpg");
@@ -13,13 +13,13 @@ font-family: 'Exo';
 }
 
 a {
- font-family: 'UnifrakturCook';
+ font-family: 'Inknut Antiqua';
  color: red;
  display: block;
 }
 
 h1 {
-  font-family: 'UnifrakturCook';
+  font-family: 'Inknut Antiqua';
  color: red;
  margin-top: auto;
  margin-left: 40px;
@@ -32,11 +32,11 @@ button{
   color: red;
   display: block;
   border: 30px;
-  font-family: 'UnifrakturCook';
+  font-family: 'Inknut Antiqua';
 }
 
 h2 {
-  font-family: 'UnifrakturCook';
+  font-family: 'Inknut Antiqua';
  color: red;
  margin-top: auto;
  margin-left: auto;
